@@ -47,6 +47,6 @@ fun NewsAppThemingTheme(
 }
 
 @Composable
-fun JetNewsTheme(content: @Composable () -> Unit){
+fun JetNewsTheme(content: @Composable () -> Unit) {
     MaterialTheme(content = content)
 }
